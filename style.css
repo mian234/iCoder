@@ -1,0 +1,21 @@
+
+.navbar{
+    background-color: rgb(186, 202, 202);
+}
+.form-control{
+    width: 200px;
+}
+.d-block{
+    height: 300px;
+    
+}
+.Form{
+    width: 650px;
+}
+.form-select{
+    width: 250px;
+}
+.member{
+    position: relative;
+    right: 20px;
+}
